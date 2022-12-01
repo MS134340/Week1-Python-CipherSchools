@@ -1,4 +1,4 @@
-print("Mnasi Singh")
+print("Mansi Singh")
 print("Hello World")
 #every thing is isinstance of object.
 print(isinstance("a",int))
